@@ -6,7 +6,12 @@
 
  * Windows XP or higher
 
-## Installation
+## Build
+
+ * download the latest source https://github.com/ettorer/npm-rdpcred/archive/master.zip
+ * expand and open a command prompt in the folder containing the source
+ * node-gyp config
+ * node-gyp build 
     
 ## Example
 

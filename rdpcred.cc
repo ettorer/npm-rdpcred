@@ -106,5 +106,5 @@ namespace cred {
 		NODE_SET_METHOD(exports, "del", del);
 	}
 
-	NODE_MODULE(windows, init)
+	NODE_MODULE(rdpcred, init)
 }
