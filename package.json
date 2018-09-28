@@ -1,0 +1,29 @@
+{
+  "name": "rdpcred",
+  "version": "0.0.1",
+  "description": "mstsc autologin credentials injector",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ettorer/node-rdpcred.git"
+  },
+  "keywords": [
+    "startrdp",
+    "credwrite",
+    "autologin",
+    "mstsc",
+    "rdp"
+  ],
+  "author": "Ettore Roberto Rizza",
+  "contributors": [
+      {
+      }
+    ],
+  "license": "MIT"
+}
