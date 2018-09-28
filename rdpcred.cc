@@ -59,7 +59,6 @@ namespace cred {
 		Credentials.UserName = (LPWSTR)user;
 
 		BOOL ok = ::CredWriteW(&Credentials, 0);
-		wprintf(L"CredWrite() - errno %d\n", ok ? 0 : ::GetLastError());
 
 		free(targetName);
 		free(user);

@@ -25,7 +25,7 @@ rdpcred.setCredentials({ account: 'MYDOMAIN\\user', service: 'TERMSRV/HOST', pas
 
 (The MIT License)
 
-Copyright (c) 2018 Ettore Rizza &lt;er@flydesktop.com&gt;
+Copyright (c) 2018 Ettore Roberto Rizza &lt;er@flydesktop.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
