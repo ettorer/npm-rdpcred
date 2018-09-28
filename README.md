@@ -1,6 +1,6 @@
 #  Windows Credential Manager module for Node.js 
 
-  This module exports methods to inject/remove credentials to/from the Windows Credential Manager. It is used to perfomr RDP connection SSO in Node.js
+  This module exports methods to inject/remove credentials to/from the Windows Credential Manager. It is used to perform SSO RDP connection with Node.js or Electron scripts
   
 ## Requirements
 
